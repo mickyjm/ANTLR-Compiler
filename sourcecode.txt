@@ -1,0 +1,11 @@
+int e;
+int a;
+
+e = 1;
+
+if (e == 1)
+    a = 3;
+else
+    a = 4;
+endif
+print a;
