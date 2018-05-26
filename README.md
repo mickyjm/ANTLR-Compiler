@@ -10,5 +10,5 @@ Compile and run:
 ```
 $ make
 $ cat foo.asm
-$ foo
+$ ./foo
 ```
